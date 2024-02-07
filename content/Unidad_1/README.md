@@ -3,5 +3,16 @@
 # Algoritmos Secuenciales
 Los algoritmos secuenciales representan uno de los paradigmas más simples y fundamentales de la programación. 
 Específicamente, un algoritmo secuencial es un conjunto de instrucciones que se ejecutan en secuencia, una después de la otra, 
-siguiendo el orden en el que están escritas. En esta unidad se revisan los pasos para la solución de un problema, se presenta el 
-concepto de algoritmo y se describen las instrucciones básicas para la construcción de algoritmos secuenciales.
+siguiendo el orden en el que están escritas.
+
+## Contenido de la Unidad:
+- El concepto de algoritmo y la formas de representar un algoritmo
+- Identificación de la entrada, el proceso y la salida
+- Elementos de un algoritmo en seudocódigo
+- Expresiones aritmeticológicas
+- Problemas con estructuras secuenciales
+
+## Archivos de la Unidad
+- <a href="Guía Teórica 01 - Algoritmos Secuenciales.pdf">Guía Teórica - Algoritmos Secuenciales</a>: Archivo PDF con la explicación de los conceptos teóricos
+- Guía Práctica - Algoritmos Secuenciales: Archivo .ipynb (Jupyer Notebook) con la descripción y ejemplos de la estructura secuencial en Python
+- Diapositivas del curso - Archivo PDF con las diapositivas usadas en los encuentros presenciales del curso
