@@ -1,6 +1,6 @@
 # ------ COURSE PARAMS ------
-course_id = 'ai4eng.v1'
-github_repo = 'rramosp/ai4eng.v1'
+course_id = 'TEST_COURSE'
+github_repo = 'carlosmera20/Logica_y_Representacion_I'
 endpoint = 'https://m5knaekxo6.execute-api.us-west-2.amazonaws.com/dev-v0001/rlxmooc'
 # ------ COURSE PARAMS ------
 
