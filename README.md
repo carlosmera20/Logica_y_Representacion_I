@@ -15,7 +15,7 @@
     <strong>📓 Unidades del curso:</strong>
 </p>
 <ul>
-    <li><strong>Unidad 1:</strong> Algoritmos secuenciales</li>
+    <li><strong><a href="\Unidad_1\">Unidad 1:</a></strong> Algoritmos secuenciales</li>
     <li><strong>Unidad 2:</strong> Programación orientada a objetos<br></li>
     <li><strong>Unidad 3:</strong> Estructuras de control selectivas (condicionales)</li>
     <li><strong>Unidad 4:</strong> Estructuras de control repetitivas (ciclos)</li>
