@@ -1,19 +1,17 @@
 <p><img src="https://raw.githubusercontent.com/carlosmera20/Logica_y_Representacion_I/main/content/local/imgs/encabezado.png"></p>
-<p>
-    <span style="font-size: x-large;"> <strong> 📌 Importancia de la Lógica de Programación en Ingeniería</strong><br></span>
-    La importancia de la lógica de programación y
-    las matemáticas en las ingenierías está asociada al desarrollo de habilidades
-    cognitivas y analíticas que contribuyen en la formación del estudiante para que
-    aprenda a identificar, analizar, abstraer, modelar y solucionar problemas
-    en su área específica de formación. Adicionalmente, la lógica de programación
-    proporciona las herramientas para el desarrollo del pensamiento algorítmico que
-    ayuda a descomponer problemas complejos de manera estructurada y crear programas
-    como parte de su solución. En este curso trata los temas básicos asociados a la lógica para el desarrollo de algoritmos
-    y su posterior implementación en Python.
-</p>
-<p>
-    <strong>📓 Unidades del curso:</strong>
-</p>
+
+# 📌 Importancia de la Lógica de Programación en Ingeniería
+La importancia de la lógica de programación y
+las matemáticas en las ingenierías está asociada al desarrollo de habilidades
+cognitivas y analíticas que contribuyen en la formación del estudiante para que
+aprenda a identificar, analizar, abstraer, modelar y solucionar problemas
+en su área específica de formación. Adicionalmente, la lógica de programación
+proporciona las herramientas para el desarrollo del pensamiento algorítmico que
+ayuda a descomponer problemas complejos de manera estructurada y crear programas
+como parte de su solución. En este curso trata los temas básicos asociados a la lógica para el desarrollo de algoritmos
+y su posterior implementación en Python.
+
+## 📓 Unidades del curso:
 <ul>
     <li><strong><a href="content/Unidad_1/">Unidad 1:</a></strong> Algoritmos secuenciales</li>
     <li><strong>Unidad 2:</strong> Programación orientada a objetos<br></li>
