@@ -16,4 +16,4 @@ siguiendo el orden en el que están escritas.
 - <a href="Guía Teórica 01 - Algoritmos Secuenciales.pdf">Guía Teórica - Algoritmos Secuenciales</a>: Archivo PDF con la explicación de los conceptos teóricos
 - Guía Práctica - Algoritmos Secuenciales: Archivo .ipynb (Jupyer Notebook) con la descripción y ejemplos de la estructura secuencial en Python
 - Diapositivas - Archivo PDF con la presentación PPT usada en los encuentros presenciales del curso
-- Taller - Algoritmos Secuenciales: Ejercicios propuestos para poner en práctica los conceptos aprendidos
+- <a href="Taller 1 - Algoritmos Secuenciales.pdf">Taller - Algoritmos Secuenciales</a>: Ejercicios propuestos para poner en práctica los conceptos aprendidos
