@@ -60,6 +60,8 @@ def install_sourcedefender():
     else:
         print('encryption enabled')
 
+def get_error_msg(input, output, expected_output):
+    print("Error!")
 
 import requests, zipfile, io, os, shutil, subprocess
 #try:
