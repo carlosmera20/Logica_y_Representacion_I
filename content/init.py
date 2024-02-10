@@ -60,8 +60,22 @@ def install_sourcedefender():
     else:
         print('encryption enabled')
 
-def get_error_msg(input, output, expected_output):
-    print("Error!")
+def get_error_msg(input, teacher_result, student_result, calls=100):
+    msg = "<pre>\n"
+    msg += f"Checking your code with {calls} random calls ...\n\n"
+    msg += f"<b><font color='red'>🎯 Your answer is incorrect:</font></b> check your code considering the following items:\n"
+    msg += f"<font color='blue'>   Input:</font> {input} \n"
+    msg += f"<font color='blue'>   Expected output:</font> {teacher_result}\n"
+    msg += f"<font color='blue'>   Obtained output :</font> {student_result}\n"
+    msg += "</pre>"
+    return msg
+
+def get_ok_msg(calls=100):
+    msg = "<pre>\n"
+    msg += f"Checking your code with {calls} random calls ...\n\n"
+    msg += f"<b><font color='blue'>🐍  Your answer is correct:</font></b> great job!\n"
+    msg += "</pre>"
+    return msg
 
 import requests, zipfile, io, os, shutil, subprocess
 #try:
