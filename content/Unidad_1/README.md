@@ -15,5 +15,5 @@ siguiendo el orden en el que están escritas.
 ## Archivos de la Unidad
 - <a href="Guía Teórica 01 - Algoritmos Secuenciales.pdf">Guía Teórica - Algoritmos Secuenciales</a>: Archivo PDF con la explicación de los conceptos teóricos
 - <a href="Guía Práctica 01 - Algoritmos Secuenciales.ipynb">Guía Práctica - Algoritmos Secuenciales</a>: Archivo .ipynb con la teoría y práctica de las estructuras secuenciales en Python
-- Diapositivas - Archivo PDF con la presentación PPT usada en los encuentros presenciales del curso
+- <a href="Diapositivas - Algoritmos Secuenciales.pdf">Diapositivas</a>: Archivo PDF con la presentación PPT usada en los encuentros presenciales del curso
 - <a href="Taller 1 - Algoritmos Secuenciales.pdf">Taller - Algoritmos Secuenciales</a>: Ejercicios propuestos para poner en práctica los conceptos aprendidos
