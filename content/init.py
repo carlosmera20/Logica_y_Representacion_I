@@ -1,5 +1,5 @@
 # ------ COURSE PARAMS ------
-course_id = 'TEST_COURSE'
+course_id = 'LOGICA_1'
 github_repo = 'carlosmera20/Logica_y_Representacion_I'
 endpoint = 'https://m5knaekxo6.execute-api.us-west-2.amazonaws.com/dev-v0001/rlxmooc'
 # ------ COURSE PARAMS ------
