@@ -63,7 +63,7 @@ def install_sourcedefender():
 def get_error_msg(input, teacher_result, student_result, calls=100):
     msg = "<pre>\n"
     msg += f"Checking your code with {calls} random calls ...\n\n"
-    msg += f"<b><font color='red'>🎯 Your answer is incorrect:</font></b> check your code considering the following items:\n"
+    msg += f"<b><font color='red'>&#127919 Your answer is incorrect:</font></b> check your code considering the following items:\n"
     msg += f"<font color='blue'>   Input:</font> {input} \n"
     msg += f"<font color='blue'>   Expected output:</font> {teacher_result}\n"
     msg += f"<font color='blue'>   Obtained output :</font> {student_result}\n"
@@ -73,7 +73,7 @@ def get_error_msg(input, teacher_result, student_result, calls=100):
 def get_ok_msg(calls=100):
     msg = "<pre>\n"
     msg += f"Checking your code with {calls} random calls ...\n\n"
-    msg += f"<b><font color='blue'>🐍  Your answer is correct:</font></b> great job!\n"
+    msg += f"<b><font color='blue'>&#128013  Your answer is correct:</font></b> great job!\n"
     msg += "</pre>"
     return msg
 
