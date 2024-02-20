@@ -72,7 +72,7 @@ def get_error_msg(input, teacher_result, student_result, calls=100):
 
 def get_ok_msg(calls=100):
     msg = "<pre>\n"
-    msg += f"Checking your code with {calls} random calls ...\n\n"
+    msg += f"Checking your code with {calls} random calls XXX ...\n\n"
     msg += f"<b><font color='blue'>&#128013  Your answer is correct:</font></b> great job!\n"
     msg += "</pre>"
     return msg
