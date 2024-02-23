@@ -14,7 +14,7 @@ y su posterior implementación en Python.
 ## 📓 Unidades del curso:
 <ul>
     <li><strong><a href="content/Unidad_1/">Unidad 1:</a></strong> Algoritmos secuenciales</li>
-    <li><strong><a href="content/Unidad_1/">Unidad 2:</a></strong> Programación orientada a objetos<br></li>
+    <li><strong><a href="content/Unidad_2/">Unidad 2:</a></strong> Programación orientada a objetos<br></li>
     <li><strong>Unidad 3:</strong> Estructuras de control selectivas (condicionales)</li>
     <li><strong>Unidad 4:</strong> Estructuras de control repetitivas (ciclos)</li>
     <li><strong>Unidad 5:</strong> Estructuras de datos estáticas (arreglos 1D y 2D)</li>
