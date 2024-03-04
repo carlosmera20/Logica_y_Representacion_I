@@ -16,5 +16,5 @@ La Programación Orientada a Objetos (P.O.O.) es un paradigma que organiza el c�
 ## Archivos de la Unidad
 - <a href="Guía Teórica 02 - Programación Orientada a Objetos.pdf">Guía Teórica - Programación Orientada a Objetos</a>: Archivo PDF con la explicación de los conceptos teóricos
 - <a href="Guía Práctica 02 - Introduccion a la POO.ipynb">Guía Práctica - Programación Orientada a Objetos</a>: Archivo .ipynb con la teoría y práctica introductoria a la POO
-- <a href="#">Diapositivas</a>: Archivo PDF con la presentación PPT usada en los encuentros presenciales del curso
+- <a href="Diapositivas - Introduccion a la POO.pdf">Diapositivas</a>: Archivo PDF con la presentación PPT usada en los encuentros presenciales del curso
 - <a href="Taller 2 - Programación orientada a objetos.pdf">Taller - Programación Orientada a Objetos</a>: Ejercicios propuestos para poner en práctica los conceptos aprendidos
