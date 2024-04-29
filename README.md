@@ -17,7 +17,7 @@ y su posterior implementación en Python.
     <li><strong><a href="content/Unidad_2/">Unidad 2:</a></strong> Programación orientada a objetos<br></li>
     <li><strong><a href="content/Unidad_3/">Unidad 3:</a></strong> Estructuras de control selectivas (condicionales)</li>
     <li><strong><a href="content/Unidad_4/">Unidad 4:</a></strong> Estructuras de control repetitivas (ciclos)</li>
-    <li><strong>Unidad 5:</strong> Estructuras de datos estáticas (arreglos 1D y 2D)</li>
+    <li><strong><a href="content/Unidad_5/">Unidad 5:</a></strong> Estructuras de datos estáticas (arreglos 1D y 2D)</li>
     <li><strong>Unidad 6:</strong> Introducción a las estructuras de datos dinámicas (listas)</li>
 </ul>
 <br>
