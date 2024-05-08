@@ -12,6 +12,6 @@ Los arreglos son una estructura de datos estática que se usa para almacenar y m
 ## Archivos de la Unidad
 - <a href="Guía Teórica 05 - Arreglos Unidimensionales.pdf">Guía Teórica 05 - Arreglos Unidimensionales</a>: Archivo PDF con la explicación de los conceptos teóricos
 - <a href="Guía Práctica 06 - Arreglos Unidimensionales 1.ipynb">Guía Práctica - Arreglos Unidimensionales 1</a>: Archivo .ipynb con la teoría y práctica sobre los elementos básicos de arreglos con NumPy
-- <a href="Diapositivas - Arreglos Unidimensionales 1.pdf">Diapositivas Arreglos Unidimensionales</a>: Archivo PDF con la presentación PPT usada en los encuentros presenciales del curso
-- <a href="Diapositivas - Arreglos Unidimensionales 2.pdf">Diapositivas Ordenamiento y Búsqueda</a>: Archivo PDF con la presentación PPT usada en los encuentros presenciales del curso
+- <a href="Diapositivas - Arreglos Unidimensionales 1.pdf">Diapositivas - Arreglos Unidimensionales</a>: Archivo PDF con la presentación PPT usada en los encuentros presenciales del curso
+- <a href="Diapositivas - Arreglos Unidimensionales 2.pdf">Diapositivas - Ordenamiento y Búsqueda</a>: Archivo PDF con la presentación PPT usada en los encuentros presenciales del curso
 - <a href="Taller 6 - Arreglos Unidimensionales.pdf">Taller - Arreglos Unidimensionales</a>: Ejercicios propuestos para poner en práctica los conceptos aprendidos
