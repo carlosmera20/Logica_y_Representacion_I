@@ -18,7 +18,6 @@ y su posterior implementación en Python.
     <li><strong><a href="content/Unidad_3/">Unidad 3:</a></strong> Estructuras de control selectivas (condicionales)</li>
     <li><strong><a href="content/Unidad_4/">Unidad 4:</a></strong> Estructuras de control repetitivas (ciclos)</li>
     <li><strong><a href="content/Unidad_5/">Unidad 5:</a></strong> Estructuras de datos estáticas (arreglos 1D y 2D)</li>
-    <li><strong>Unidad 6:</strong> Introducción a las estructuras de datos dinámicas (listas)</li>
 </ul>
 <br>
 <p dir="ltr" style="text-align: left;"><span  style="font-size: large;"><strong>&nbsp;👋 Información del docente:</strong></span> <br></p>
